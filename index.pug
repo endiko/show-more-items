@@ -1,0 +1,11 @@
+- var n = 20;
+
+.container
+  ul.list
+    - for(var i = 1; i <= n; i++)
+      if i > 5
+        li.item.hidden= i
+      else 
+        li.item= i
+
+    a(href="#").show_more Show More
