@@ -1,2 +1,2 @@
-# show-more-items
-Simple feature "show more" button realization using pug, scss, js
+# "Show more" feature, like in an online-shops
+Super simple realization using pug, scss, js
